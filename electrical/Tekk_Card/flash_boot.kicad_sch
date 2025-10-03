@@ -1473,7 +1473,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 213.0552 72.39 0)
 			(effects
 				(font
@@ -1541,7 +1541,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tekk_Card_Library:R-667_MIT"
 			(at 55.88 82.55 0)
 			(effects
 				(font
@@ -1609,7 +1609,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 73.914 86.614 90)
 			(effects
 				(font
@@ -1745,7 +1745,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 88.646 71.374 90)
 			(effects
 				(font
@@ -1764,6 +1764,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 87.63 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 87.63 71.12 0)
 			(effects
 				(font
