@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Tekk_Card_Library")(type "KiCad")(uri "${KIPRJMOD}/Tekk_Card_Library.pretty")(options "")(descr ""))
+)
